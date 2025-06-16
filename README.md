@@ -24,7 +24,7 @@
 
 ## 🖼️ Layout UI
 
-```plaintext
+-```plaintext
 [🧠 Log Analyzer]
 [📂 Browse Files]
 
@@ -39,6 +39,7 @@ End Date:    [Dropdown ▼]
 
 [ผลลัพธ์จะแสดงใน Listbox ที่ด้านล่าง]
 
+- ```
 
 # ----------------------------- English ----------------------------------------
 
@@ -69,6 +70,8 @@ A user-friendly Python GUI application for analyzing log files. Search specific 
 
 ## 🖥️ User Interface Layout
 
+-```plaintext
+
 🧠 Log Analyzer
 
 [📂 Browse Files]
@@ -83,3 +86,5 @@ End Date: [dropdown ▼]
 [🔍 Analyze] [📤 Export CSV] [🔁 Reset]
 
 [Listbox for results displayed here]
+
+-```
