@@ -7,6 +7,7 @@ import threading
 from collections import defaultdict
 from datetime import datetime
 import csv
+import sys
 
 # ========== Parsing ==========
 def parse_datetime_from_line(line):
@@ -220,7 +221,18 @@ def export_csv():
 
 # GUI
 root = tk.Tk()
-root.iconbitmap('icon.ico')
+if getattr(sys, 'frozen', False):
+    # กรณีรันจาก exe
+    try:
+        root.iconbitmap(sys._MEIPASS + '/icon.ico')
+    except:
+        pass
+else:
+    try:
+        root.iconbitmap('icon.ico')
+    except:
+        pass
+
 root.title("Log Analyzer")
 root.geometry("850x700")
 
