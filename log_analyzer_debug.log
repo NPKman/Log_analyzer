@@ -1,0 +1,28 @@
+2025-06-16 10:04:06,284 | INFO | App started.
+2025-06-16 10:04:08,725 | INFO | Selecting files...
+2025-06-16 10:04:11,863 | INFO | Selected 1 files.
+2025-06-16 10:04:27,135 | INFO | Datetime loaded successfully.
+2025-06-16 10:04:49,028 | INFO | Start analyzing logs...
+2025-06-16 10:04:49,028 | DEBUG | Analyzing file: EVMSWSS-2024-08-04.log
+2025-06-16 10:04:49,951 | INFO | Analysis complete.
+2025-06-16 10:04:49,956 | INFO | Analysis finished and results displayed.
+2025-06-16 10:04:56,646 | INFO | Start analyzing logs...
+2025-06-16 10:04:56,646 | DEBUG | Analyzing file: EVMSWSS-2024-08-04.log
+2025-06-16 10:04:57,638 | INFO | Analysis complete.
+2025-06-16 10:04:57,643 | INFO | Analysis finished and results displayed.
+2025-06-16 10:05:03,833 | INFO | Start analyzing logs...
+2025-06-16 10:05:03,834 | DEBUG | Analyzing file: EVMSWSS-2024-08-04.log
+2025-06-16 10:05:04,909 | INFO | Analysis complete.
+2025-06-16 10:05:04,933 | INFO | Analysis finished and results displayed.
+2025-06-16 10:05:06,185 | INFO | Start analyzing logs...
+2025-06-16 10:05:06,185 | DEBUG | Analyzing file: EVMSWSS-2024-08-04.log
+2025-06-16 10:05:07,124 | INFO | Analysis complete.
+2025-06-16 10:05:07,136 | INFO | Analysis finished and results displayed.
+2025-06-16 10:05:07,631 | INFO | Start analyzing logs...
+2025-06-16 10:05:07,631 | DEBUG | Analyzing file: EVMSWSS-2024-08-04.log
+2025-06-16 10:05:08,544 | INFO | Analysis complete.
+2025-06-16 10:05:08,553 | INFO | Analysis finished and results displayed.
+2025-06-16 10:06:04,967 | INFO | Start analyzing logs...
+2025-06-16 10:06:04,967 | DEBUG | Analyzing file: EVMSWSS-2024-08-04.log
+2025-06-16 10:06:06,103 | INFO | Analysis complete.
+2025-06-16 10:06:06,116 | INFO | Analysis finished and results displayed.
