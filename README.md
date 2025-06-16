@@ -11,17 +11,22 @@
   - **Count:** แสดงจำนวนครั้งของ IP ที่พบ  
   - **Show:** แสดงข้อความ log ที่ตรงเงื่อนไข  
 - 📤 **Export เป็น CSV**  
-- 🔁 **Reset ระบบทั้งหมด**  
-- 🌀 **Progress Bar แบบ Animation**  
-  - ขณะ Import / Analyze ไฟล์  
-  - แสดงชื่อไฟล์ที่กำลังอ่าน  
-- ❌ **Cancel** กระบวนการกลางทางได้  
-- 🎨 **ฟอนต์ Comic Sans MS** (ถ้ามี)  
-- 🪟 **ตั้ง Icon ไฟล์** (`icon.ico`)  
+- 🔁 **Reset ระบบทั้งหมด**
+- 🌀 **Progress Bar แบบ Animation**
+  - ขณะ Import / Analyze ไฟล์
+  - แสดงชื่อไฟล์ที่กำลังอ่าน
+- ❌ **Cancel** กระบวนการกลางทางได้
+- 🎨 **ฟอนต์ Comic Sans MS** (ถ้ามี)
+- 🪟 **ตั้ง Icon ไฟล์** (`icon.ico`)
 
 ## 🖼️ Layout UI
 
+<<<<<<< HEAD
 🧠 Log Analyzer  
+=======
+-```plaintext
+[🧠 Log Analyzer]
+>>>>>>> f3d65f3404687d6f5005db55cc5419de739fa09d
 [📂 Browse Files]
 
 Keyword: [______________]
@@ -35,6 +40,7 @@ End Date:    [Dropdown ▼]
 
 [ผลลัพธ์จะแสดงใน Listbox ที่ด้านล่าง]
 
+- ```
 
 ---
 
@@ -61,7 +67,14 @@ A user-friendly Python GUI application for analyzing log files. Search specific 
 
 ## 🖥️ User Interface Layout
 
+<<<<<<< HEAD
 🧠 Log Analyzer  
+=======
+-```plaintext
+
+🧠 Log Analyzer
+
+>>>>>>> f3d65f3404687d6f5005db55cc5419de739fa09d
 [📂 Browse Files]
 
 Keyword: [__________]
@@ -73,4 +86,10 @@ End Date:   [dropdown ▼]
 
 [🔍 Analyze]   [📤 Export CSV]   [🔁 Reset]
 
+<<<<<<< HEAD
 [Results appear in the Listbox below]
+=======
+[Listbox for results displayed here]
+
+-```
+>>>>>>> f3d65f3404687d6f5005db55cc5419de739fa09d
